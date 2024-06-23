@@ -36,6 +36,7 @@
 #ifndef NibeGw_h
 #define NibeGw_h
 
+#include "sdkconfig.h"
 #include <Arduino.h>
 #include "esphome/components/uart/uart.h"
 #include "esphome/core/gpio.h"
